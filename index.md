@@ -2,8 +2,8 @@
 title: Parlay Picks
 ---
 
-# Parlay Picks Log
+# Today's Parlay Picks
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-<!-- Newest entries go directly below this line. -->
+No picks posted yet — check back after the next morning run.
