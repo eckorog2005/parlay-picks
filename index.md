@@ -11,35 +11,31 @@ title: Parlay Picks
 ## 🎟️ Parlay Tickets
 
 **Ticket #1 — Conservative (2 legs, multi-sport)** · est. **+206**
-| Leg | Market | Line | Pick | Odds |
-|---|---|---|---|---|
-| Josh Jacobs (GB) | Anytime TD | — | Yes | -140 (bet365) |
-| Domantas Sabonis (SAC) | Rebounds | 13.5 | Over | -127 |
+
+- **Josh Jacobs (GB):** Anytime TD **Yes** · -140 (bet365)
+- **Domantas Sabonis (SAC):** Rebounds **Over 13.5** · -127
 
 **Ticket #2 — Conservative SGP (3 legs, Panthers @ Packers)** · est. **+427** if priced as independent legs; the book's SGP price will be shorter
-| Leg | Market | Line | Pick | Odds |
-|---|---|---|---|---|
-| Packers | Moneyline | — | GB win | -200 |
-| Josh Jacobs | Rush + Rec Yards | 77.5 | Over | -114 (FanDuel) |
-| Jordan Love | Passing Yards | 263.5 | Under | -115 |
+
+- **Packers:** Moneyline **GB win** · -200
+- **Josh Jacobs (GB):** Rush + Rec Yards **Over 77.5** · -114 (FanDuel)
+- **Jordan Love (GB):** Passing Yards **Under 263.5** · -115
 
 **Ticket #3 — Aggressive (4 legs, NBA assists/points)** · est. **+1677**
-| Leg | Market | Line | Pick | Price* |
-|---|---|---|---|---|
-| Domantas Sabonis (SAC) | Assists | 3.5 | Over | 47¢ (≈ +113) |
-| Zion Williamson (NO) | Points | 19.5 | Over | 47¢ (≈ +113) |
-| Ja Morant (MEM) | Assists | 5.5 | Over | 49¢ (≈ +104) |
-| Deni Avdija (POR) | Assists | 5.5 | Over | 52¢ (≈ -108) |
 
-*Dimers listed these as prediction-market prices in cents. I converted them to American odds. Sportsbook prices may differ.
+- **Domantas Sabonis (SAC):** Assists **Over 3.5** · 47¢ (≈ +113)
+- **Zion Williamson (NO):** Points **Over 19.5** · 47¢ (≈ +113)
+- **Ja Morant (MEM):** Assists **Over 5.5** · 49¢ (≈ +104)
+- **Deni Avdija (POR):** Assists **Over 5.5** · 52¢ (≈ -108)
+
+Prices on this ticket are Dimers prediction-market prices in cents, converted to American odds. Sportsbook prices may differ.
 
 **Ticket #4 — Aggressive (4 legs, NFL + NBA)** · est. **+993**
-| Leg | Market | Line | Pick | Odds |
-|---|---|---|---|---|
-| Josh Jacobs (GB) | Anytime TD | — | Yes | -140 |
-| Chuba Hubbard (CAR) | Rushing Yards | 69.5 | Over | -115 (BetMGM) |
-| Domantas Sabonis (SAC) | Rebounds | 13.5 | Over | -127 |
-| Donovan Mitchell (CLE) | Pts + Reb + Ast | 33.5 | Over | -110 (bet365) |
+
+- **Josh Jacobs (GB):** Anytime TD **Yes** · -140
+- **Chuba Hubbard (CAR):** Rushing Yards **Over 69.5** · -115 (BetMGM)
+- **Domantas Sabonis (SAC):** Rebounds **Over 13.5** · -127
+- **Donovan Mitchell (CLE):** Pts + Reb + Ast **Over 33.5** · -110 (bet365)
 
 Combined odds are my own estimates: I multiplied the decimal odds of each leg as quoted in the sources. Same-game parlay pricing and live lines will differ, so check your book.
 
