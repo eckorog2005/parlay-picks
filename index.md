@@ -51,6 +51,38 @@ Lines come from TheSpread.com and WagerTalk. The Heat spread moved from 3.5 to 8
 
 *Parlays are high-variance and nothing here is guaranteed.*
 
+## Evening Update — Player Props (5:40 PM ET)
+
+Prop lines were thin in search results. Only the lines below were found, and most had no price attached. Injury news for tonight could not be retrieved, so check statuses before betting.
+
+**Ticket #4 — Conservative (2 legs, star volume props)** · est. **+258**
+
+- **Nikola Jokic (DEN):** Points + Rebounds + Assists **Over 46.5** · -125 (FanDuel)
+- **Paul Reed (DET):** Points **Over 15.5** · -101
+
+Combined odds are calculated from the two leg prices. The Reed price comes from FTN's model pick and the book was not named.
+
+**Ticket #5 — Aggressive (3 legs, Jokic, Reaves and Reed)** · est. **+625**
+
+- **Nikola Jokic (DEN):** Points **Over 24.5** · -110 (assumed)
+- **Austin Reaves (LAL):** Points + Rebounds + Assists **Over 34.5** · -110 (assumed)
+- **Paul Reed (DET):** Points **Over 15.5** · -101
+
+Covers listed the Jokic and Reaves lines without prices, so I assumed -110 for both and the combined odds are approximate. Reed's price is from FTN.
+
+### Evening Analysis
+
+**Ticket #4 — Conservative**
+- **Jokic PRA Over 46.5:** Denver is a road favorite at Phoenix (-3.5 to -4.0 in a 231.5 total), so Jokic should play heavy minutes in a competitive game. His PRA line pools three categories, which makes it steadier than a points-only line. I did not retrieve Phoenix's defensive ranks against centers.
+- **Reed Over 15.5 points:** FTN's model likes this against Brooklyn. Detroit is a 7.5-point road favorite, so blowout minutes are a risk. I could not confirm Reed's recent minutes or role.
+- **Correlation check:** The legs come from different games and are independent. The shared risk is garbage-time rest in a blowout. **Confidence: 5/10.**
+
+**Ticket #5 — Aggressive**
+- **Jokic Over 24.5 points** overlaps with the Ticket #4 Jokic leg, so using both tickets doubles up on one player.
+- **Reaves Over 34.5 PRA:** Reaves handles more offense with the Warriors missing Jimmy Butler III and Moses Moody (from the morning report). Dončić is back from his back issue, which could trim Reaves' usage, so this is the shakiest leg.
+- **Reed Over 15.5 points:** Same reasoning as Ticket #4.
+- **Correlation check:** The legs come from three games and are independent. Missing prices and unconfirmed injuries add risk. **Confidence: 3/10.**
+
 Sources:
 - [TheSpread.com — Lakers vs Warriors](https://www.thespread.com/nba-articles/lakers-vs-warriors-prediction-october-30-2026/)
 - [TheSpread.com — Nuggets vs Suns](https://www.thespread.com/nba-articles/nuggets-vs-suns-prediction-october-30-2026/)
@@ -62,3 +94,6 @@ Sources:
 - [Rotoballer — NBA best bets 10/30/26](https://rotoballer.com/nba-best-bets-for-novig-10-30-26-expert-player-prop-picks/1979104)
 - [TalkBasket — Friday injury report](https://www.talkbasket.net/225812-nba-injury-report-edwards-durant-headline-fridays-absences)
 - [ESPN NFL Schedule Week 8](https://www.espn.ph/nfl/schedule/_/week/8/year/2026/seasontype/2)
+- [FTN Fantasy — Best NBA player props 10/30/26](https://ftnfantasy.com/nba/best-nba-player-prop-bets-today-october-30-2026)
+- [Covers — NBA player props 10/30/26](https://www.covers.com/nba/player-props-oct-30-2026)
+- [FanDuel Research — NBA props Friday Oct 30](https://www.fanduel.com/research/nba-props-today-friday-oct-30)
