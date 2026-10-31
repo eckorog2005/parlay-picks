@@ -2,98 +2,54 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-10-30
+# Today's Parlay Picks — 2026-10-31
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-**Slate:** NBA only. The NFL has no games today (Eastern time); the Green Bay game was Thursday night. Player prop lines could not be retrieved, so every leg below is a team market (moneyline, spread, total) using lines found in search results. Books were not identified in those results, and lines differ between sources.
+**Slate:** NBA only (Saturday, Halloween night, about six to seven games). The NFL has no games today (Eastern time). Most odds and injury pages for tonight could not be retrieved, and no player prop lines were found, so every leg is a team market taken from the few pages that did show current lines. Check live lines and injury news before tip-off. An evening update with player props may follow.
 
-**Ticket #1 — Conservative (2 legs, favorites moneyline)** · est. **+110**
+**Ticket #1 — Conservative (2 legs, Philly-Charlotte under + Rockets spread)** · est. **+263**
 
-- **Pistons (DET):** Moneyline **DET win** · -300
-- **Nuggets (DEN):** Moneyline **DEN win** · -175
+- **76ers @ Hornets (PHI/CHA):** Game total **Under 216.5** · -105 (book not listed)
+- **Rockets (HOU):** Spread **HOU -2.5** · -116 (Fanatics)
 
-Lines come from TheSpread.com. Combined odds are calculated from the leg prices.
+Combined odds are calculated from the two leg prices. These are two near coin-flip legs, so "conservative" here only means fewer legs.
 
-**Ticket #2 — Conservative (2 legs, Lakers-Warriors same game)** · est. **+227**
+**Ticket #2 — Aggressive (3 legs, adds Cavaliers favorite)** · est. **+594**
 
-- **Lakers (LAL):** Moneyline **LAL win** · -140
-- **Lakers vs. Warriors:** Game total **Over 233.5** · -110
+- **76ers @ Hornets (PHI/CHA):** Game total **Under 216.5** · -105 (book not listed)
+- **Rockets (HOU):** Spread **HOU -2.5** · -116 (Fanatics)
+- **Cavaliers (CLE):** Spread **CLE -8.5** · -110 (assumed)
 
-Lines come from TheSpread.com; FanDuel had the Lakers at -1.5, so the spread differs by source.
-
-**Ticket #3 — Aggressive (4 legs, big favorites)** · est. **+632**
-
-- **Pistons (DET):** Moneyline **DET win** · -300
-- **Nuggets (DEN):** Moneyline **DEN win** · -175
-- **Celtics (BOS):** Spread **BOS -14.5** · -115
-- **Heat (MIA):** Spread **MIA -8.5** · -115
-
-Lines come from TheSpread.com and WagerTalk. The Heat spread moved from 3.5 to 8.5 in under a day, so recheck it before betting.
+The Cavaliers -8.5 line was found without a price, so -110 is assumed for the combined-odds estimate. The slate data did not support a 4+ leg ticket.
 
 ## Analysis
 
 ### Ticket #1 — Conservative
-- **Pistons ML (-300) at Nets:** Detroit is a 7.5-point road favorite with a 222.5 total, which implies about 15 points of team-total edge. The market sees a clear talent gap. Rotoballer's Detroit assist props (Ausar Thompson, Pelle Larsson) suggest steady playmaking usage. I could not retrieve Nets injury or defensive-rank data.
-- **Nuggets ML (-175) at Suns:** Denver is -4.0 on the road in a 231.5 total. I did not retrieve injury or usage data for either team, so this rests on the market line alone.
-- **Correlation check:** The two games are independent, so there is no negative correlation. Both legs are favorites on the road, so road-favorite upset risk is shared. **Confidence: 6/10.** Moneyline favorites still lose outright often enough to matter.
 
-### Ticket #2 — Conservative (same game)
-- **Lakers ML (-140):** Luka Dončić is off the injury report after a back issue. The Warriors are without Jimmy Butler III (ACL surgery) and Moses Moody (patellar tendon surgery). Ziaire Williams is questionable for LA. The spread opened at -1.5 and moved to -2.5 at TheSpread.
-- **Over 233.5 (-110):** A healthy Dončić drives LA's offense, and a thinner Warriors rotation should still push pace at home. The total is high, so this leg needs a fast game.
-- **Correlation check:** Positive. A Lakers win through offense lifts the total. The risk is a Warriors-led shootout where Golden State wins or a slow, grind-it-out Lakers win. **Confidence: 5/10.** I did not find prop prices or defensive rankings for this game.
+**Under 216.5, 76ers @ Hornets**
+- **Matchup & usage context:** The cited preview has Philadelphia allowing about 105 points per game (third best) and Charlotte playing at a slow pace. A separate model projects about 104 points for each team (roughly 207.6 combined), well below the posted total.
+- **Defensive matchups:** Philadelphia's defense is the main driver; Charlotte's slow tempo trims possessions.
+- **Game script:** A slow, tight game keeps the total down. No player-specific injury data was retrieved, so a late star scratch could move the line.
 
-### Ticket #3 — Aggressive
-- **Pistons ML and Nuggets ML:** Same reasoning as Ticket #1.
-- **Celtics -14.5 (-115) vs. Bulls:** Boston lost Devin Carter to illness. Chicago lists Tobe Awaka, Jalen Smith and Patrick Williams as questionable, and Boston's Nic Claxton is out per the report. The line opened at -15.5 and the total climbed from 232.5 to 235.5, which points toward a Boston-friendly scoring game. A 14.5-point spread is a large number to cover.
-- **Heat -8.5 (-115) vs. Pacers:** Reports tied the Pacers' absence to Haliburton, which likely explains the 3.5 to 8.5 move. Confirm the final injury status before betting.
-- **Correlation check:** The legs are independent. Large spreads carry blowout risk both ways, and a close game kills two legs at once. **Confidence: 3/10.** This is a lottery-style ticket.
+**Rockets -2.5, vs. Thunder**
+- **Matchup & usage context:** The preview notes Oklahoma City is missing Chet Holmgren, Jalen Williams and Cason Wallace, which removes key rim protection and perimeter depth.
+- **Defensive matchups:** With Holmgren out, Houston should have more room inside. I could not retrieve current defensive rankings.
+- **Game script:** Houston at home as a small favorite with an undermanned opponent. This is the 8:30 PM ET nightcap, so late news can still change it.
+
+**Risk & correlation check:** The two legs are in different games, so there is no negative correlation. Both depend on injury status holding. Confidence **5/10**. Risk: moderate, because both legs are close to 50/50 and based on thin data.
+
+### Ticket #2 — Aggressive
+
+Legs 1 and 2 are as above. **Cavaliers -8.5 at Bucks:** Only a spread of CLE -8.5 was found, with Cleveland a clear favorite on the moneyline according to the same model page. No usage, injury or defensive details were retrieved for this game, so this leg is the weakest-supported of the three. A big spread also risks a garbage-time cover failure if starters sit late.
+
+**Risk & correlation check:** All three legs are independent games. Confidence **3/10**. Risk: high, with an unpriced leg and no injury confirmation for Milwaukee or Cleveland.
 
 *Parlays are high-variance and nothing here is guaranteed.*
 
-## Evening Update — Player Props (5:40 PM ET)
-
-Prop lines were thin in search results. Only the lines below were found, and most had no price attached. Injury news for tonight could not be retrieved, so check statuses before betting.
-
-**Ticket #4 — Conservative (2 legs, star volume props)** · est. **+258**
-
-- **Nikola Jokic (DEN):** Points + Rebounds + Assists **Over 46.5** · -125 (FanDuel)
-- **Paul Reed (DET):** Points **Over 15.5** · -101
-
-Combined odds are calculated from the two leg prices. The Reed price comes from FTN's model pick and the book was not named.
-
-**Ticket #5 — Aggressive (3 legs, Jokic, Reaves and Reed)** · est. **+625**
-
-- **Nikola Jokic (DEN):** Points **Over 24.5** · -110 (assumed)
-- **Austin Reaves (LAL):** Points + Rebounds + Assists **Over 34.5** · -110 (assumed)
-- **Paul Reed (DET):** Points **Over 15.5** · -101
-
-Covers listed the Jokic and Reaves lines without prices, so I assumed -110 for both and the combined odds are approximate. Reed's price is from FTN.
-
-### Evening Analysis
-
-**Ticket #4 — Conservative**
-- **Jokic PRA Over 46.5:** Denver is a road favorite at Phoenix (-3.5 to -4.0 in a 231.5 total), so Jokic should play heavy minutes in a competitive game. His PRA line pools three categories, which makes it steadier than a points-only line. I did not retrieve Phoenix's defensive ranks against centers.
-- **Reed Over 15.5 points:** FTN's model likes this against Brooklyn. Detroit is a 7.5-point road favorite, so blowout minutes are a risk. I could not confirm Reed's recent minutes or role.
-- **Correlation check:** The legs come from different games and are independent. The shared risk is garbage-time rest in a blowout. **Confidence: 5/10.**
-
-**Ticket #5 — Aggressive**
-- **Jokic Over 24.5 points** overlaps with the Ticket #4 Jokic leg, so using both tickets doubles up on one player.
-- **Reaves Over 34.5 PRA:** Reaves handles more offense with the Warriors missing Jimmy Butler III and Moses Moody (from the morning report). Dončić is back from his back issue, which could trim Reaves' usage, so this is the shakiest leg.
-- **Reed Over 15.5 points:** Same reasoning as Ticket #4.
-- **Correlation check:** The legs come from three games and are independent. Missing prices and unconfirmed injuries add risk. **Confidence: 3/10.**
-
 Sources:
-- [TheSpread.com — Lakers vs Warriors](https://www.thespread.com/nba-articles/lakers-vs-warriors-prediction-october-30-2026/)
-- [TheSpread.com — Nuggets vs Suns](https://www.thespread.com/nba-articles/nuggets-vs-suns-prediction-october-30-2026/)
-- [TheSpread.com — Pistons vs Nets](https://www.thespread.com/nba-articles/pistons-vs-nets-prediction-october-30-2026/)
-- [WagerTalk — Bulls vs Celtics](https://www.wagertalk.com/news/nba/bulls-vs-celtics-prediction-picks-and-odds-nba-friday-october-30-2026/)
-- [WagerTalk — Pacers vs Heat](https://www.wagertalk.com/news/nba/pacers-vs-heat-prediction-picks-and-odds-nba-friday-october-30-2026/)
-- [FanDuel Research — Warriors vs Lakers](https://www.fanduel.com/research/warriors-vs-lakers-prediction-nba-odds-spread-best-bets-for-10-30-2026)
-- [Heavy — Lakers injury report](https://heavy.com/sports/nba/los-angeles-lakers/injury-report-vs-warriors-october-30/)
-- [Rotoballer — NBA best bets 10/30/26](https://rotoballer.com/nba-best-bets-for-novig-10-30-26-expert-player-prop-picks/1979104)
-- [TalkBasket — Friday injury report](https://www.talkbasket.net/225812-nba-injury-report-edwards-durant-headline-fridays-absences)
-- [ESPN NFL Schedule Week 8](https://www.espn.ph/nfl/schedule/_/week/8/year/2026/seasontype/2)
-- [FTN Fantasy — Best NBA player props 10/30/26](https://ftnfantasy.com/nba/best-nba-player-prop-bets-today-october-30-2026)
-- [Covers — NBA player props 10/30/26](https://www.covers.com/nba/player-props-oct-30-2026)
-- [FanDuel Research — NBA props Friday Oct 30](https://www.fanduel.com/research/nba-props-today-friday-oct-30)
+- [Oddschecker — NBA Halloween preview](https://www.oddschecker.com/us/insight/basketball/nba/20261027-the-nbas-scariest-teams-players-on-halloween--best-records-on-october-31st)
+- [Pickswise — NBA best bets, Oct. 31](https://www.pickswise.com/nba/news/nba-best-bets-today-october-31-picks-predictions/)
+- [RG.org — Best bets today, Oct. 31](https://rg.org/news/gambling-industry/best-bets-today-ohio-state-usc-georgia-florida-october-31-2026)
+- [Tony's Picks — Free NBA picks 10/31/2026](https://www.tonyspicks.com/2026/10/31/free-nba-picks-for-today-10-31-2026/)
+- [Defirate — NFL Week 8 odds](https://defirate.com/news/nfl-week-8-odds-lines-spreads-2026/)
