@@ -44,6 +44,42 @@ Risk & Correlation Check: the legs are independent (different sports), so no cor
 
 Risk & Correlation Check: Suns ML and Booker assists are positively correlated (good). Podziemski's rebounds are in a different game, so he is independent of the Suns legs. Biggest risk is four separate things all hitting at plus-money prices. Confidence **3/10**; this is a long shot.
 
+## Evening Update — Player Props (5:35 PM ET)
+
+**Ticket #3 — Conservative (2 legs, Booker points plus Curry threes)** · est. **+304**
+
+- **Devin Booker (PHX):** Points **Over 24.5** · -126 (Covers listing)
+- **Stephen Curry (GS):** 3-Pointers Made **Over 4.5** · +125 (SI listing)
+
+Prices are from different tipster articles and may differ at your book; the combined price is my own conversion.
+
+**Ticket #4 — Aggressive (4 legs, mixed props across three games)** · est. **+1582**
+
+- **Devin Booker (PHX):** Points **Over 24.5** · -126 (Covers listing)
+- **Stephen Curry (GS):** 3-Pointers Made **Over 4.5** · +125 (SI listing)
+- **Franz Wagner (ORL):** Rebounds **Over 5.5** (6+) · -150 (Novig)
+- **Parker Washington (JAX):** Anytime TD **Yes** · +150 (The Lines listing)
+
+Prices come from different sources (Novig, a prediction-market style exchange, and tipster articles), so treat the combined price as an estimate.
+
+### Evening analysis
+
+**Booker over 24.5 points (-126).** Covers points to Orlando's thin defense with Paolo Banchero (high ankle sprain, out) and Jalen Suggs reported absent, plus Booker's recent scoring. Phoenix is a slight home favorite, so he should keep a full-minutes, high-usage role.
+
+**Curry over 4.5 threes (+125).** SI cites Miami as the league's worst team at defending the three. Volume is the driver: Curry's attempt count keeps this live even on a cold night. Risk: a Warriors blowout could trim his fourth-quarter minutes.
+
+**Franz Wagner 6+ rebounds (-150).** SportsBettingDime likes it. With Banchero out, Wagner should see more usage and more minutes. The price is heavy for a rebound leg, so this is the ticket's weakest value.
+
+**Parker Washington anytime TD (+150).** Described as Trevor Lawrence's top receiver this season. Jacksonville is a roughly 9 to 10 point favorite against Baltimore's rookie Joe Fagnano, a game script that favors Lawrence throwing for scores (17 TD passes, 4 INT through 7 games). Risk: a low total (about 40.5) limits touchdown chances.
+
+Correlation check: Booker and Wagner share a game, and a Suns win plays into Booker's points. Wagner's rebounds could rise if Orlando trails and shoots poorly. Curry and Washington are independent. Confidence: Ticket #3 **5/10**, Ticket #4 **3/10**.
+
+Injury/status changes:
+- Paolo Banchero (ORL) is listed out; no morning leg depends on him, and it helps the Suns ML leg.
+- Brandin Podziemski (GS, Ticket #2): I could not confirm his status tonight; check before tip.
+- Baltimore: Lamar Jackson and Tyler Huntley are unavailable; Joe Fagnano starts, which supports the Jaguars legs.
+- Real sportsbook prop boards and official final injury reports could not be retrieved directly (several sites were unreachable), so verify all lines.
+
 Sources:
 - [Covers: Jaguars vs Ravens TNF Week 9 odds](https://www.covers.com/nfl/week-9-odds-opening-lines-2026)
 - [CBS Sports: Jaguars vs. Ravens prediction and odds](https://www.cbssports.com/betting/news/jaguars-ravens-prediction-odds-time-nfl-week-9-thursday-night-football-picks-bets/)
@@ -53,5 +89,10 @@ Sources:
 - [FanDuel Research: NBA props for Thursday, Nov. 5](https://www.fanduel.com/research/nba-props-today-best-nba-player-prop-bets-for-thursday-nov-5)
 - [Dimers: NBA best bets, 11/5/2026](https://www.dimers.com/nba/news/nba-best-bets-11-05-2026-ac)
 - [Dimers: NBA player props, 11/5/2026](https://www.dimers.com/nba/news/nba-player-props-11-05-2026-ac)
+- [Covers: NBA best picks, Nov. 5](https://www.covers.com/nba/top-picks-nov-5-2026)
+- [SI: Heat vs. Warriors props, Nov. 5](https://si.com/betting/heat-vs-warriors-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-5-2026)
+- [SportsBettingDime: best NBA player props](https://www.sportsbettingdime.com/news/nba/the-best-nba-player-props-to-bet-today-picks-for-all-4-teams/)
+- [The Lines: Jaguars-Ravens anytime TD picks](https://www.thelines.com/nfl/player-props/anytime-touchdown-scorer-today-5-jaguars-ravens-tnf-picks/)
+- [Covers: Jaguars vs Ravens AI picks](https://www.covers.com/nfl/jaguars-vs-ravens-score-prediction-ai-projections-week-9-2026)
 
 Parlays are high-variance and nothing here is guaranteed.
