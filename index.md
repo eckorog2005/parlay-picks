@@ -2,64 +2,56 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-11-04
+# Today's Parlay Picks — 2026-11-05
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-No NFL games today (Week 9 begins Thursday). NBA has a 14-game slate tonight. Player prop lines were not posted or retrievable this morning, so these tickets use sides only; a props update may follow tonight.
+Slate: NFL Week 9 Thursday Night Football (Jaguars at Ravens, 8:15 PM ET) and a 2-game NBA night (Magic at Suns, 9 PM ET; Heat at Warriors, 10 PM ET). Most prop lines and the official injury reports were not retrievable this morning, so tickets lean on sides plus the few prop lines I could verify. An evening update with player props may follow.
 
-**Ticket #1 — Conservative (2 legs, two moneyline favorites)** · est. **+139**
+**Ticket #1 — Conservative (2 legs, TNF favorite plus NBA home favorite)** · est. **+274**
 
-- **Thunder (OKC):** Moneyline **OKC win** · -155 (BetMGM)
-- **Heat (MIA):** Moneyline **MIA win** · -220 (SportsBetting)
+- **Jaguars (JAX):** Spread **Jaguars -10** · -108 (DraftKings)
+- **Suns (PHX):** Moneyline **PHX win** · -106 (Dimers listing)
 
-Odds are from different books and will move before tip-off; the combined price is my own conversion.
+Spread is a consensus number (Covers had -8.5, CBS and DraftKings -10) and lines move; the combined price is my own conversion from two different sources.
 
-**Ticket #2 — Aggressive (4 legs, favorites plus a big-spread dog)** · est. **+474**
+**Ticket #2 — Aggressive (4 legs, Suns win script plus a Warriors rebound prop)** · est. **+2241**
 
-- **Celtics (BOS):** Moneyline **BOS win** · -500 (FanDuel)
-- **Thunder (OKC):** Moneyline **OKC win** · -155 (BetMGM)
-- **Heat (MIA):** Moneyline **MIA win** · -220 (SportsBetting)
-- **Bucks (MIL):** Spread **+11.5** · +100 (Novig, 50¢)
+- **Jaguars (JAX):** Spread **Jaguars -10** · -108 (DraftKings)
+- **Suns (PHX):** Moneyline **PHX win** · -106 (Dimers listing)
+- **Devin Booker (PHX):** Assists **Over 5.5** · +172 (FanDuel)
+- **Brandin Podziemski (GS):** Rebounds **Over 5.5** · +130 (Dimers listing)
 
-The Bucks price is a prediction-market price converted to American odds; the Celtics spread is not confirmed at a standard book, so verify the line before betting.
+Prop prices come from daily best-bet articles and may differ at your book; the combined price is my own conversion.
 
-## Analysis
+## Explanations & Analysis
 
-### Ticket #1 — Conservative
+### Ticket #1 / Conservative
 
-**Thunder ML (vs CLE, 228.5 total):** OKC is a home favorite at roughly -2.5 to -3.5 (-155 ML), and the model win probability is about 53% per BetMGM, so the price is thin on value but the side is solid at home. Chet Holmgren is out 8–10 weeks and Cason Wallace has a torn labrum, which shrinks OKC's depth; this is the main risk. I could not retrieve usage or defensive-ranking data for this game.
+**Jaguars -10 (-108).** Matchup & usage: Baltimore is without Lamar Jackson (reported out) and is down to a backup/third-string quarterback (Joe Fagnano named), which is why the line jumped from about -7.5 to double digits. Defensive matchup: the total fell from 43.5 to about 40.5, so the market expects a low-scoring grind where Jacksonville's defense pressures an inexperienced QB. Game script: a big favorite with a backup-QB opponent is a path where Jacksonville controls the clock. Risk: a 10-point spread in a 40-point game is a lot, and the Ravens' defense and a low possession count keep backdoor covers alive.
 
-**Heat ML (at LAC):** Miami is -5.5 on the road with models giving about 70% win probability (Dimers). One analyst (Predictem) disagrees and likes the Clippers at home, so this is contested.
+**Suns ML (-106).** Matchup & usage: Phoenix is a slight home favorite (roughly -1.5 to -2.5, total around 224) and Dimers flags the moneyline as value. Defensive matchup and rotation details were not retrievable, so this is a thin lean and the least-supported leg.
 
-**Correlation/risk:** The two legs are independent games, so there is no correlation conflict. Confidence: 5/10. Both legs are near coin-flip-plus, so this is "conservative" only by leg count.
+Risk & Correlation Check: the legs are independent (different sports), so no correlation issue. Confidence **5/10**. The Suns leg is close to a coin flip and I could not confirm injuries for either NBA game.
 
-### Ticket #2 — Aggressive
+### Ticket #2 / Aggressive
 
-**Celtics ML (vs MIL):** Boston is roughly -500 and about 80–83% in models. Jayson Tatum and Payton Pritchard are both questionable (Tatum possible load management); if Tatum sits, the price and win odds change, so check status before tip.
+**Jaguars -10 and Suns ML:** same reasoning as Ticket #1.
 
-**Bucks +11.5:** Dimers rates this as a value play (about 50% at 50¢ pricing). It correlates reasonably with a Celtics ML leg: Boston wins but not by a blowout. Negative correlation: a Celtics blowout kills this leg while the ML still hits.
+**Devin Booker over 5.5 assists (+172).** FanDuel's props article highlights this line. Booker's playmaking load rises in a close game he has to run, and it correlates positively with a Suns win. Risk: a Suns blowout could cut his minutes, and I could not verify Phoenix's or Orlando's injury lists.
 
-**Thunder ML and Heat ML:** See Ticket #1.
+**Brandin Podziemski over 5.5 rebounds (+130).** Dimers' pick. A guard rebounding line this high depends on minutes. The only injury info found (Podziemski listed day-to-day) was dated Oct. 26 and may be stale, so verify his status before tip-off. If he is out or limited, drop this leg.
 
-**Risk:** Four legs, two of which carry real injury uncertainty. Confidence: 4/10.
-
-### Data gaps
-
-Player prop lines, current injury reports for Nov. 4, and opponent rankings could not be retrieved; several sports sites were unreachable from this environment. Lakers–Kings and other games were skipped because no usable price was found.
-
-Parlays are high-variance and nothing here is guaranteed.
+Risk & Correlation Check: Suns ML and Booker assists are positively correlated (good). Podziemski's rebounds are in a different game, so he is independent of the Suns legs. Biggest risk is four separate things all hitting at plus-money prices. Confidence **3/10**; this is a long shot.
 
 Sources:
+- [Covers: Jaguars vs Ravens TNF Week 9 odds](https://www.covers.com/nfl/week-9-odds-opening-lines-2026)
+- [CBS Sports: Jaguars vs. Ravens prediction and odds](https://www.cbssports.com/betting/news/jaguars-ravens-prediction-odds-time-nfl-week-9-thursday-night-football-picks-bets/)
+- [SI: Jaguars vs Ravens odds, injuries, trends](https://www.si.com/betting/jaguars-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026)
+- [FanDuel Research: Warriors vs. Heat best bets, Nov. 5](https://www.fanduel.com/research/warriors-vs-heat-prediction-nba-odds-spread-best-bets-for-11-5-2026)
+- [FanDuel Research: Suns vs. Magic best bets, Nov. 5](https://www.fanduel.com/research/suns-vs-magic-prediction-nba-odds-spread-best-bets-for-11-5-2026)
+- [FanDuel Research: NBA props for Thursday, Nov. 5](https://www.fanduel.com/research/nba-props-today-best-nba-player-prop-bets-for-thursday-nov-5)
+- [Dimers: NBA best bets, 11/5/2026](https://www.dimers.com/nba/news/nba-best-bets-11-05-2026-ac)
+- [Dimers: NBA player props, 11/5/2026](https://www.dimers.com/nba/news/nba-player-props-11-05-2026-ac)
 
-- [NBA games on November 4, 2026 (NBA Calendar)](https://nbacalendar.com/schedule/2026-11-04/)
-- [NBA Schedule Nov. 4 (Hoopmetrics)](https://hoopmetrics.app/games/2026-11-04)
-- [NBA Scores - November 4, 2026 (ESPN)](https://www.espn.com/nba/scoreboard/_/date/20261104)
-- [Cavaliers vs Thunder Prediction, Odds (BetMGM)](https://sports.betmgm.com/en/blog/nba/cavaliers-thunder-prediction-odds-lines-picks-nba-nov-4-jaa/)
-- [Celtics vs. Bucks Prediction, Odds (FanDuel Research)](https://www.fanduel.com/research/celtics-vs-bucks-prediction-nba-odds-spread-best-bets-for-11-4-2026)
-- [NBA Predictions and Moneyline Picks, Nov. 4 (Covers)](https://www.covers.com/nba/moneyline-predictions-picks-nov-4-2026)
-- [Bucks vs. Celtics prediction (Dimers)](https://www.dimers.com/nba/news/milwaukee-bucks-vs-boston-celtics-prediction-11-04-2026-ac)
-- [NBA best bets 11/4/2026 (Dimers)](https://www.dimers.com/nba/news/nba-best-bets-11-04-2026-ac)
-- [Heat vs Clippers Picks & Odds (Predictem)](https://www.predictem.com/nba/heat-vs-clippers-picks-odds-late-night-nba-best-bet/)
-- [NBA Injuries Nov 3, 2026 (Covers)](https://www.covers.com/sport/basketball/nba/injuries)
-- [NFL Week 9 Schedule 2026 (NFL Playoff Pass)](https://nflplayoffpass.com/?p=1486)
+Parlays are high-variance and nothing here is guaranteed.
