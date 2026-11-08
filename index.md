@@ -38,6 +38,31 @@ The Gibbs price is a prediction-market probability converted to American odds, n
 - **Bowers anytime TD (+115):** He leads the Raiders with five touchdowns in six games. Caveat: LV is a roughly 10-point underdog against SF, and if Brock Purdy's status or the 49ers' kickoff time (4:25 PM ET per SI, 9:05 PM per Action Network) differs from what I found, reassess. Playing from behind tends to help a tight end's target volume, and he shares no game with the other legs, so there is no correlation either way.
 - **Risk & Correlation Check:** Gibbs TD and Lions -7 are positively correlated. Four legs at these prices means one miss ends the ticket. Confidence: **4/10**. Higher variance, and I could not verify final inactives.
 
+## Evening Update — Player Props (5:45 PM ET)
+
+Tonight's only game I could verify is Buccaneers at Bears (Sunday Night Football, 8:20 PM ET, NBC; Chicago about -6, total 47.5). I could not find a reliable NBA slate or props. Prop prices were not published in the sources I could reach, so each leg below uses a standard -110 as a placeholder, not a posted price.
+
+**Ticket #3 — Conservative (2 legs, run-heavy Tampa script)** · est. **+264**
+
+- **Baker Mayfield (TB):** Passing Yards **Under 211.5** · -110 (assumed; line per Hard Rock/SportsGambler)
+- **Bucky Irving (TB):** Rushing Yards **Over 64.5** · -110 (assumed; line per Hard Rock)
+
+Combined number is my own calculation from assumed -110 prices; confirm real prices at your book.
+
+**Ticket #4 — Aggressive (3 legs, Bears pass volume and Tampa ground game)** · est. **+596**
+
+- **Caleb Williams (CHI):** Passing Yards **Over 244.5** · -110 (assumed; line per Predictem)
+- **Baker Mayfield (TB):** Passing Yards **Under 211.5** · -110 (assumed)
+- **Bucky Irving (TB):** Rushing Yards **Over 64.5** · -110 (assumed)
+
+Combined number is my own calculation from assumed -110 prices; confirm real prices at your book.
+
+### Evening analysis
+
+- **Mayfield under 211.5 / Irving over 64.5:** Both lines are the most-bet Tampa props at Hard Rock, and the two legs correlate positively: if Tampa leans on the run, Irving's carries rise while Mayfield's attempts fall. Risk: Chicago at home is a favorite, so Tampa trailing would flip this script.
+- **Williams over 244.5:** Bears RB Kyle Monangai is reported out (thumb), which should tilt Chicago toward the pass. This line comes from one preview and may differ from the book.
+- **Risk & Correlation Check:** In Ticket #4, Williams over and Mayfield under can both hit in a Bears-control game, but a Bears blowout could shrink Williams' fourth-quarter volume. Confidence: Ticket #3 **5/10**, Ticket #4 **3/10**. Unverified prices and inactives are the main risk.
+
 Sources:
 - [NFL Week 9 betting odds (ESPN)](https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals)
 - [2026 NFL Odds Week 9 (Fox Sports)](https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games)
@@ -48,5 +73,9 @@ Sources:
 - [Raiders vs. 49ers props (SI)](https://www.si.com/betting/raiders-vs-49ers-best-nfl-prop-bets-and-anytime-touchdown-scorer-picks-for-nfl-week-9-cousins-cooks-01m6pxjrjmdk)
 - [NFL Week 9 injuries to monitor (NFL.com)](https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season)
 - [NFL Player Props Week 9 (Defirate)](https://defirate.com/odds/nfl/props/)
+- [Bucs vs Bears SNF props (Hard Rock)](https://www.hardrock.bet/news/buccaneers-vs-bears-best-player-props-and-prop-bets-for-snf-at-soldier-field)
+- [Bucs vs Bears picks and odds (Fantasy Life)](https://www.fantasylife.com/articles/betting/chicago-bears-vs-tampa-bay-buccaneers-picks-odds-predictions-and)
+- [Week 9 player props, Nov 8 (Predictem)](https://www.predictem.com/nfl/nfl-week-9-player-props-best-sunday-picks-for-nov-8-2026/)
+- [Bucs vs Bears prediction (SportsGambler)](https://www.sportsgambler.com/betting-tips/nfl/tampa-bay-buccaneers-vs-chicago-bears-prediction-odds-2026-11-08/)
 
 Parlays are high-variance and nothing here is guaranteed.
