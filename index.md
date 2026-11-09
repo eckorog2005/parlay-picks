@@ -2,80 +2,70 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-11-08
+# Today's Parlay Picks — 2026-11-09
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-**Ticket #1 — Conservative (2 legs, two big home/road favorites on the moneyline)** · est. **-194**
+**Ticket #1 — Conservative (2 legs, Bills win and the game goes over)** · est. **+190**
 
-- **Chiefs (KC):** Moneyline **KC win** · -560 (SI/FanDuel)
-- **Lions (DET):** Moneyline **DET win** · -350 (FanDuel)
+- **Bills (BUF):** Moneyline **BUF win** · -175 (DraftKings)
+- **Bills @ Vikings (BUF/MIN):** Game Total **Over 43.5** · -118 (DraftKings)
 
-Combined price is my own calculation from the listed legs; lines move, so confirm at your book.
+Combined price is my own calculation from the listed legs. Totals ranged from 43.5 to 46.5 across books, so confirm your number.
 
-**Ticket #2 — Aggressive (4 legs, two spreads plus two touchdown props)** · est. **+930**
+**Ticket #2 — Aggressive (4 legs, Bills cover plus volume props)** · est. **+1140**
 
-- **Lions (DET):** Spread **-7** · -110 (DraftKings)
-- **Chiefs (KC):** Spread **-9.5** · -110 (SI)
-- **Jahmyr Gibbs (DET):** Anytime TD **Yes** · -317 (Kalshi-implied 76%)
-- **Brock Bowers (LV):** Anytime TD **Yes** · +115 (SI preview)
+- **Bills (BUF):** Spread **-3** · -118 (DraftKings)
+- **Bills @ Vikings (BUF/MIN):** Game Total **Over 43.5** · -118 (DraftKings)
+- **Khalil Shakir (BUF):** Receiving Yards **Over 38.5** · -114
+- **James Cook (BUF):** Anytime TD **Yes** · -107 (Caesars)
 
-The Gibbs price is a prediction-market probability converted to American odds, not a posted sportsbook line, and the combined number is my own calculation. NBA is skipped: I could not find a reliable current Sunday slate, lines or props.
+Combined price is my own calculation from the listed legs. The Shakir line is from a Pickswise write-up and the book was not named.
+
+**Ticket #3 — Aggressive (4 legs, Vikings keep it close, Jefferson heavy)** · est. **+1590**
+
+- **Vikings (MIN):** Spread **+3** · -102 (DraftKings)
+- **Justin Jefferson (MIN):** Receiving Yards **Over 80.5** · -112 (DraftKings)
+- **Justin Jefferson (MIN):** Anytime TD **Yes** · +140 (SI/DraftKings)
+- **Josh Allen (BUF):** Rushing Yards **Under 30.5** · -114 (FanDuel)
+
+Combined price is my own calculation from the listed legs. Jefferson's yardage line was 77.5 to 80.5 and his TD price +140 to +165 depending on source.
 
 ## Explanations & Analysis
 
-### Ticket #1 / Conservative
+**Slate note:** Bills (6-1) at Vikings (6-1) is the only NFL game tonight. Two NBA games are on the schedule (Nuggets at Rockets, Spurs at Suns), but I found no current lines or reliable injury info for either, so I built no NBA tickets rather than invent numbers. Bills are roughly 3-point favorites (about -175 ML). The total is 43.5 to 46.5 depending on the book. Carson Wentz is reportedly starting for Minnesota in place of an injured Kyler Murray (hamstring). Bills LT Dion Dawkins and another left-side lineman are questionable. Vikings LT Christian Darrisaw is questionable.
 
-- **Chiefs ML (-560):** KC hosts the Jets as roughly a 9.5-point favorite with a 46.5 total. FanDuel's research (numberFire) gives KC about a 73.6% win probability. Jets WR Garrett Wilson (concussion) is reported out, which thins their passing game. Game script: a home favorite with a clear talent edge. Risk: a back-door Jets cover doesn't matter for the moneyline.
-- **Lions ML (-350):** Detroit is about a 7-point favorite at Miami with a 50.5 total. Gibbs leads the league in carries (157) and is second in rushing yards (773), and Miami allows about 113 rushing yards per game. Amon-Ra St. Brown (ribs) was listed questionable but expected to play.
-- **Correlation/Risk:** The legs are independent games, so there is no negative correlation. The main danger is a single upset, and the combined price is short. Confidence: **7/10**. Low payout, moderate risk.
+### Ticket #1 — Conservative
+- **Bills ML:** Buffalo is the better-rated team and Minnesota is likely down to its backup QB, with its left tackle also in doubt. Matchup and defense context here is from news coverage, not my own ranking data.
+- **Over 43.5:** The total has dropped from 48.5 in May to about 43.5, which is a low number for Allen-led offense. VSiN's pick is the over.
+- **Correlation:** Positive. A Bills win with Allen moving the ball usually helps the over. Main risk is a slow, low-scoring game with a Wentz-led Vikings offense stalling.
+- **Confidence: 6/10.** Two legs, moderate juice, but a one-score game could still go either way.
 
-### Ticket #2 / Aggressive
+### Ticket #2 — Aggressive
+- **Bills -3:** Same reasoning as Ticket 1. Needs a margin of 4 or more, so the cover is less safe than the moneyline.
+- **Over 43.5:** Same as Ticket 1.
+- **Shakir over 38.5:** Modest line for Buffalo's top receiver in a game they are expected to lead and throw in. Line source did not name a book.
+- **James Cook anytime TD:** Cook is a lead back on a favorite, at roughly even money. Note that SI fades his rushing yards, so this is a touchdown-only play.
+- **Correlation:** Mostly positive, since everything leans on a Bills win and points. Negative risk: a Bills lead could lean on the run and shrink Shakir's yards.
+- **Confidence: 4/10.** Four legs that all need to land.
 
-- **Lions -7:** Same context as above. Detroit's run game against a soft Miami run defense should control the clock, which suits a cover. Risk: a late-game garbage-time score by Miami.
-- **Chiefs -9.5:** A double-digit spread is demanding. One podcast preview preferred the Jets +10, so this leg is the shakiest. Pacheco is ruled out but the report says he returns after the bye, so confirm that on the injury report.
-- **Gibbs anytime TD:** He is the featured back in a team favored by a touchdown, which makes this a high-volume red-zone role. Correlates positively with the Lions covering.
-- **Bowers anytime TD (+115):** He leads the Raiders with five touchdowns in six games. Caveat: LV is a roughly 10-point underdog against SF, and if Brock Purdy's status or the 49ers' kickoff time (4:25 PM ET per SI, 9:05 PM per Action Network) differs from what I found, reassess. Playing from behind tends to help a tight end's target volume, and he shares no game with the other legs, so there is no correlation either way.
-- **Risk & Correlation Check:** Gibbs TD and Lions -7 are positively correlated. Four legs at these prices means one miss ends the ticket. Confidence: **4/10**. Higher variance, and I could not verify final inactives.
+### Ticket #3 — Aggressive
+- **Vikings +3:** The contrarian side. Home underdog, getting a field goal, and the total is low, which favors a close finish.
+- **Jefferson over 80.5 and anytime TD:** He is Minnesota's focal point, and a backup QB tends to lean on him. These two are positively correlated (a TD likely comes with a big game), which is why the combined price is not a simple multiple of fair odds.
+- **Allen under 30.5 rush yards:** FanDuel leans under. Covers disagrees and projects about 35, so this is the weakest leg.
+- **Correlation:** Jefferson and Vikings +3 move together. Allen's under is largely independent, but a close game could push Buffalo to run more.
+- **Confidence: 3/10.** Wentz's volatility and a conflicting analyst view on the Allen leg.
 
-## Evening Update — Player Props (5:45 PM ET)
-
-Tonight's only game I could verify is Buccaneers at Bears (Sunday Night Football, 8:20 PM ET, NBC; Chicago about -6, total 47.5). I could not find a reliable NBA slate or props. Prop prices were not published in the sources I could reach, so each leg below uses a standard -110 as a placeholder, not a posted price.
-
-**Ticket #3 — Conservative (2 legs, run-heavy Tampa script)** · est. **+264**
-
-- **Baker Mayfield (TB):** Passing Yards **Under 211.5** · -110 (assumed; line per Hard Rock/SportsGambler)
-- **Bucky Irving (TB):** Rushing Yards **Over 64.5** · -110 (assumed; line per Hard Rock)
-
-Combined number is my own calculation from assumed -110 prices; confirm real prices at your book.
-
-**Ticket #4 — Aggressive (3 legs, Bears pass volume and Tampa ground game)** · est. **+596**
-
-- **Caleb Williams (CHI):** Passing Yards **Over 244.5** · -110 (assumed; line per Predictem)
-- **Baker Mayfield (TB):** Passing Yards **Under 211.5** · -110 (assumed)
-- **Bucky Irving (TB):** Rushing Yards **Over 64.5** · -110 (assumed)
-
-Combined number is my own calculation from assumed -110 prices; confirm real prices at your book.
-
-### Evening analysis
-
-- **Mayfield under 211.5 / Irving over 64.5:** Both lines are the most-bet Tampa props at Hard Rock, and the two legs correlate positively: if Tampa leans on the run, Irving's carries rise while Mayfield's attempts fall. Risk: Chicago at home is a favorite, so Tampa trailing would flip this script.
-- **Williams over 244.5:** Bears RB Kyle Monangai is reported out (thumb), which should tilt Chicago toward the pass. This line comes from one preview and may differ from the book.
-- **Risk & Correlation Check:** In Ticket #4, Williams over and Mayfield under can both hit in a Bears-control game, but a Bears blowout could shrink Williams' fourth-quarter volume. Confidence: Ticket #3 **5/10**, Ticket #4 **3/10**. Unverified prices and inactives are the main risk.
+*Parlays are high-variance and nothing here is guaranteed; lines were gathered the morning of the game and may have moved.*
 
 Sources:
-- [NFL Week 9 betting odds (ESPN)](https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals)
-- [2026 NFL Odds Week 9 (Fox Sports)](https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games)
-- [Jets vs Chiefs prediction/odds (SI)](https://www.si.com/betting/jets-vs-chiefs-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026)
-- [Chiefs vs Jets best bets (FanDuel Research)](https://fanduel.com/research/chiefs-vs-jets-predictions-odds-picks-best-bets-for-nfl-week-9-2026)
-- [Lions vs Dolphins prediction/odds (SI)](https://www.si.com/betting/lions-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026)
-- [Raiders vs 49ers prediction/odds (SI)](https://www.si.com/betting/raiders-vs-49ers-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026)
-- [Raiders vs. 49ers props (SI)](https://www.si.com/betting/raiders-vs-49ers-best-nfl-prop-bets-and-anytime-touchdown-scorer-picks-for-nfl-week-9-cousins-cooks-01m6pxjrjmdk)
-- [NFL Week 9 injuries to monitor (NFL.com)](https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season)
-- [NFL Player Props Week 9 (Defirate)](https://defirate.com/odds/nfl/props/)
-- [Bucs vs Bears SNF props (Hard Rock)](https://www.hardrock.bet/news/buccaneers-vs-bears-best-player-props-and-prop-bets-for-snf-at-soldier-field)
-- [Bucs vs Bears picks and odds (Fantasy Life)](https://www.fantasylife.com/articles/betting/chicago-bears-vs-tampa-bay-buccaneers-picks-odds-predictions-and)
-- [Week 9 player props, Nov 8 (Predictem)](https://www.predictem.com/nfl/nfl-week-9-player-props-best-sunday-picks-for-nov-8-2026/)
-- [Bucs vs Bears prediction (SportsGambler)](https://www.sportsgambler.com/betting-tips/nfl/tampa-bay-buccaneers-vs-chicago-bears-prediction-odds-2026-11-08/)
-
-Parlays are high-variance and nothing here is guaranteed.
+- [SI: NFL Week 9 opening odds](https://www.si.com/betting/nfl-week-9-opening-odds-for-every-game-bears-bills-jaguars-favored-in-primetime-patriots-favored-vs-packers)
+- [SI: Bills vs. Vikings prediction, odds, injuries](https://www.si.com/betting/bills-vs-vikings-prediction-odds-spread-injuries-trends-for-nfl-week-9-01m6hxbcwmrf)
+- [Covers: Bills vs Vikings prop picks](https://www.covers.com/nfl/bills-vs-vikings-props-best-bets-week-9-2026)
+- [VSiN: Bills vs. Vikings predictions](https://vsin.com/nfl/bills-vs-vikings-predictions-week-9-monday-night-football-odds-picks-and-player-props/)
+- [Bettors Insider: MNF props](https://bettorsinsider.com/nfl/2026/11/08/3-skill-position-props-to-back-for-bills-vs-vikings-on-mnf/)
+- [FanDuel Research: Bills vs. Vikings picks](https://www.fanduel.com/research/bills-vs-vikings-picks-3-best-bets-nfl-player-props-for-mnf)
+- [Sports Betting Dime: MNF props](https://www.sportsbettingdime.com/news/nfl/bills-vs-vikings-player-props-touchdown-picks-mnf-nov-9/)
+- [Tony's Picks: Nov 9 props](https://www.tonyspicks.com/2026/11/09/nfl-player-props-millz-young-11-9-26/)
+- [Pickswise: Bills vs. Vikings props](https://www.pickswise.com/nfl/news/bills-vs-vikings-player-props-best-bets-and-predictions/)
+- [SportBusy: Nuggets at Rockets](https://www.sportbusy.com/games/nba/14315849-denver-nuggets-at-houston-rockets-2026-11-09/)
