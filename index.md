@@ -58,6 +58,40 @@ Combined price is my own calculation from the listed legs. Jefferson's yardage l
 
 *Parlays are high-variance and nothing here is guaranteed; lines were gathered the morning of the game and may have moved.*
 
+## Evening Update — Player Props (5:45 PM ET)
+
+**Ticket #4 — Conservative (2 legs, Jefferson and Ty Johnson yardage)** · est. **+221**
+
+- **Justin Jefferson (MIN):** Receiving Yards **Over 76.5** · -140 (BetMGM)
+- **Ty Johnson (BUF):** Receiving Yards **Over 14.5** · -115 (bet365)
+
+Combined price is my own calculation from the listed legs. Jefferson's line varies 76.5 to 80.5 by book, so shop for the best number.
+
+**Ticket #5 — Aggressive (4 legs, both QBs throw plus the two receivers)** · est. **+1030**
+
+- **Carson Wentz (MIN):** Passing Yards **Over 209.5** · -113 (DraftKings)
+- **Josh Allen (BUF):** Passing Yards **Over 230.5** · -115
+- **Justin Jefferson (MIN):** Receiving Yards **Over 76.5** · -140 (BetMGM)
+- **Ty Johnson (BUF):** Receiving Yards **Over 14.5** · -115 (bet365)
+
+Combined price is my own calculation from the listed legs. The Allen price came from a projection piece with no book named, and Wentz's line ranged 209.5 to 213.5.
+
+### Evening Analysis
+
+- **Jefferson over 76.5:** Wide receiver Jauan Jennings is out for Minnesota and Kyler Murray is out, so Wentz should lean on Jefferson. Caution: Jefferson has topped 55 yards only twice in six games, so the line is not a lock.
+- **Ty Johnson over 14.5:** A low bar for the Bills' pass-catching back, and Joshua Palmer (WR) is out, which shifts targets toward the backfield and slot.
+- **Wentz over 209.5:** Relies on volume with a thin receiver group. Risk: Buffalo leading and Minnesota stalling.
+- **Allen over 230.5:** Needs Buffalo to throw rather than grind. Palmer's absence and a possibly shaky left side of the line (Dawkins questionable) are the risks.
+- **Correlation:** Jefferson and Wentz overs are positively tied. Allen and Wentz overs both want a back-and-forth game, which cuts against the low total in the morning tickets. Cook-style run-heavy Bills script is the main enemy of the Allen and Johnson legs.
+- **Confidence:** Ticket #4 5/10. Ticket #5 3/10.
+
+### Injury/status changes
+
+- Bills WR Joshua Palmer (hamstring) is out; this helps Khalil Shakir's volume on morning Ticket #2.
+- Vikings WR Jauan Jennings (calf) is out; this helps Justin Jefferson on morning Ticket #3.
+- Kyler Murray is out (Wentz starts), consistent with the morning notes. Bills LT Dion Dawkins (ribs) is still questionable. Official inactives were not found yet, so recheck before kickoff.
+- No NBA player prop lines were found for tonight, so no NBA legs were built.
+
 Sources:
 - [SI: NFL Week 9 opening odds](https://www.si.com/betting/nfl-week-9-opening-odds-for-every-game-bears-bills-jaguars-favored-in-primetime-patriots-favored-vs-packers)
 - [SI: Bills vs. Vikings prediction, odds, injuries](https://www.si.com/betting/bills-vs-vikings-prediction-odds-spread-injuries-trends-for-nfl-week-9-01m6hxbcwmrf)
@@ -69,3 +103,7 @@ Sources:
 - [Tony's Picks: Nov 9 props](https://www.tonyspicks.com/2026/11/09/nfl-player-props-millz-young-11-9-26/)
 - [Pickswise: Bills vs. Vikings props](https://www.pickswise.com/nfl/news/bills-vs-vikings-player-props-best-bets-and-predictions/)
 - [SportBusy: Nuggets at Rockets](https://www.sportbusy.com/games/nba/14315849-denver-nuggets-at-houston-rockets-2026-11-09/)
+- [Vikings.com: Final injury report, Week 9](https://www.vikings.com/news/bills-injury-report-week-9-2026-nfl-season)
+- [SBD: Final Bills vs Vikings injury report](https://www.sportsbettingdime.com/news/nfl/final-bills-vs-vikings-injury-report-for-mnf-latest-on-kyler-murray-joshua-palmer-dion-dawkins-more/)
+- [CBS Sports: Bills vs. Vikings props and picks](https://www.cbssports.com/betting/news/bills-vikings-sgp-monday-night-football-same-game-parlay-picks-bets-player-props/)
+- [SportsRadioZ: Week 9 MNF preview](https://www.sportsradioz104.com/2026/11/09/week-9-mnf-bills-vikings-preview-prop-picks-prediction/)
