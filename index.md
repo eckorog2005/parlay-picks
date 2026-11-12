@@ -2,10 +2,10 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-11-11
+# Today's Parlay Picks — 2026-11-12
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-No picks today. There are no NFL games on a Wednesday, and I couldn't retrieve verified NBA lines, player prop prices, or injury reports for tonight's slate (searches returned only older-season pages, and odds sites were unreachable). Rather than invent numbers, I'm skipping tickets for this run.
+No picks today. I couldn't retrieve verified current lines, player prop prices, or injury reports for tonight's NFL Thursday night game or the NBA slate (searches returned only older-week and older-season pages, and odds sites were unreachable from this environment). Rather than invent numbers, I'm skipping tickets for this run.
 
 Parlays are high-variance and nothing here is guaranteed.
