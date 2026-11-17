@@ -2,48 +2,50 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-11-16
+# Today's Parlay Picks — 2026-11-17
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-**Data note:** Monday Nov 16 has NFL Week 10 Monday Night Football (Chargers at Ravens, 8:15 PM ET, ESPN) and an NBA slate. Odds sites were not reachable from this environment, so lines come from search-result snippets only. I could not confirm NBA lines, injuries or even the game list for tonight, so there are no NBA picks. Player prop lines for tonight were not available, so both tickets use game-level markets. A larger, prop-based set may follow in the evening update. Re-check every line before betting.
+**Data note:** Tuesday Nov 17 has no NFL games. The NBA slate has about 5 games, but only Pistons at Spurs (8:00 PM ET) had current lines I could find, from search-result snippets. Knicks at Raptors (7:30 PM ET) had no verified current line, and I found no verified player prop lines for tonight, so both tickets use game-level markets on one game. The evening update may add props. Re-check every line and injury status before betting.
 
-**Ticket #1 — Conservative (2 legs, Ravens win and low scoring)** · est. **+176**
+**Ticket #1 — Conservative (2 legs, Spurs win and under)** · est. **+140**
 
-- **Ravens (BAL):** Moneyline **BAL win** · -225 (BetMGM)
-- **Chargers/Ravens (LAC@BAL):** Game Total **Under 38.5** · -110 (price assumed)
+- **Spurs (SA):** Moneyline **SA win** · -375 (range -350 to -400 across books)
+- **Pistons/Spurs (DET@SA):** Game Total **Under 222.5** · -110 (theScore Bet)
 
-Odds are a rough estimate from the BetMGM moneyline in an SI preview and an assumed standard price on the total; lines may have moved.
+Odds are an estimate: the moneyline is a midpoint of the quoted range, and a same-game parlay price at a book will differ.
 
-**Ticket #2 — Conservative (2 legs, Ravens cover and low scoring)** · est. **+268**
+**Ticket #2 — Conservative (2 legs, Spurs cover and under)** · est. **+260**
 
-- **Ravens (BAL):** Spread **BAL -4.5** · -108 (BetMGM)
-- **Chargers/Ravens (LAC@BAL):** Game Total **Under 38.5** · -110 (price assumed)
+- **Spurs (SA):** Spread **SA -9.5** · -110 (theScore Bet)
+- **Pistons/Spurs (DET@SA):** Game Total **Under 222.5** · -110 (theScore Bet)
 
-Covers' earlier lean had the spread at Ravens -5.5, so shop the number. An aggressive 4+ leg ticket was skipped because only one game had verifiable lines.
+Odds are the straight product of two -110 legs; a same-game parlay price at a book will differ and the spread was quoted anywhere from -8.5 to -9.5.
 
-## Analysis
+## Explanations & Analysis
 
-### Ticket #1 — Conservative
+### Ticket #1 / Conservative
 
-- **Ravens ML:** Baltimore is the home favorite at about a 67% implied win probability (Kalshi-based figure cited by Covers), and the Chargers' offense is described as struggling.
-- **Under 38.5:** The 38.5 total is low, which points to a slow, defense-first game. The Ravens being a home favorite fits with a controlled, run-leaning script.
-- **Matchup and usage:** I could not retrieve current target share, snap counts or defensive rankings for this game, so this rests on the market lines alone.
-- **Correlation:** Positive. A Ravens win by a modest margin is consistent with a low-scoring game. The risk is a Ravens blowout fueled by turnovers or defensive touchdowns pushing the total over.
-- **Injury risk:** SI listed Justin Herbert as questionable, plus Ravens S Kyle Hamilton and CB Nate Wiggins as questionable. A Herbert absence would likely move both the spread and the total, so check the final status before betting.
-- **Confidence: 6/10.** Moderate risk and mostly market-based.
+- **Spurs ML:** Detroit is missing Jalen Duren (hamstring), Duncan Robinson (quad), Ronald Holland II (knee) and Taurean Prince (knee), with Isaiah Joe doubtful. San Antonio is missing Tobias Harris (calf) and Jayden Quaintance (knee), a much smaller loss. Home favorite near -375 reflects that gap. Duren's absence also removes Detroit's main interior presence against Wembanyama, who scored 38 with 16 rebounds in the March 5 meeting.
+- **Under 222.5:** Detroit's thin rotation limits its scoring depth, and analysts (Predictem projected roughly SA 114, DET 104) lean under. A comfortable Spurs win also invites slower late-game play.
+- **Correlation check:** Spurs win and under are positively correlated here, since Detroit scoring little drives both. Risk: a Spurs blowout with garbage-time scoring can push the total over. Mitigation is the lower total line 222.5 versus the 220.5 some books show.
+- **Confidence: 6/10.** Moneyline price is heavy, the main risk is an upset or a shootout.
 
-### Ticket #2 — Conservative
+### Ticket #2 / Conservative
 
-- **Ravens -4.5:** Laying less than a touchdown with the home favorite. A one-score win covers.
-- **Under 38.5:** Same reasoning as Ticket #1.
-- **Correlation:** Positive but with some tension. A cover needs Baltimore to win by 5 or more, which in a low-total game is harder than a straight win. This ticket pays more for that added risk.
-- **Mitigation:** Ticket #1 is the safer way to take the same view.
-- **Confidence: 5/10.**
-
-Sources:
-- [SI: Chargers vs Ravens prediction, odds, spread, injuries, trends, Week 10](https://www.si.com/betting/chargers-vs-ravens-prediction-odds-spread-injuries-trends-for-nfl-week-10-01m741zk70e7)
-- [Covers: Chargers vs Ravens prediction, picks, early odds, Week 10](https://www.covers.com/nfl/chargers-vs-ravens-prediction-picks-odds-early-leans-week-10-2026)
-- [Covers: NFL Week 10 odds and opening lines](https://www.covers.com/nfl/week-10-odds-opening-lines-2026)
+- **Spurs -9.5:** Same injury edge as above, but the spread needs a 10-point margin. Some sources noted the margin projects near 8, so this is the riskier of the two side legs.
+- **Under 222.5:** Same reasoning as Ticket #1.
+- **Correlation check:** A 10+ point Spurs win coincides with Detroit scoring low, helping the under, but blowouts can also inflate scoring if starters stay in. Garbage-time risk applies to both legs.
+- **Confidence: 4/10.** Pays more than Ticket #1, but the spread is at or beyond some projections.
 
 Parlays are high-variance and nothing here is guaranteed.
+
+Sources:
+
+- [Pistons vs Spurs Prediction, Odds, Best Bets - BetMGM](https://sports.betmgm.com/en/blog/nba/pistons-spurs-prediction-odds-lines-picks-nba-nov-17-jaa/)
+- [Pistons to face blockbuster Spurs without 2 key players - Yahoo Sports](https://sports.yahoo.com/articles/pistons-face-blockbuster-spurs-without-015823671.html)
+- [Pistons at Spurs Odds, Pick & Preview - Predictem](https://www.predictem.com/nba/pistons-at-spurs-odds-pick-preview-for-tuesday-nba/)
+- [Pistons vs Spurs Prediction 11/17/2026 - Pick Dawgz](https://pickdawgz.com/nba-picks/pistons-vs-spurs-prediction-11-17-2026-nba-picks-today/)
+- [Pistons vs Spurs Prediction, Odds & NBA Picks - The Rx](https://www.therx.com/nba/pistons-spurs-matchup-odds-nov-17-2026/55542/)
+- [Wembanyama has 38 points and 16 rebounds vs Pistons - CBS Sports](https://www.cbssports.com/nba/gametracker/recap/NBA_20260305_DET@SA)
+- [NBA Daily Summary: Nov 17, 2026 - Land of Basketball](https://www.landofbasketball.com/nba_daily_summary/20261117.htm)
