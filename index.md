@@ -2,40 +2,61 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-11-20
+# Today's Parlay Picks — 2026-11-21
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-**Ticket #1 — Conservative (2 legs, Hawks win + Okongwu points)** · est. **+159**
+No NFL games today (Saturday); the next NFL games are Sunday. NBA has six games, but I could not find posted player prop lines this morning, so every ticket uses sides and totals only. Evening update may add props.
 
-- **Hawks (ATL):** Moneyline **ATL win** · -220 (DraftKings)
-- **Onyeka Okongwu (ATL):** Points **Over 14.5** · -128 (DraftKings)
+**Ticket #1 — Conservative (2 legs, two big favorites win)** · est. **+60**
 
-Odds are DraftKings prices from an SI preview and may have moved; the combined price multiplies the two legs and ignores any correlation adjustment.
+- **Spurs (SA):** Moneyline **SA win** · -1460 (BangTheBook consensus)
+- **Knicks (NYK):** Moneyline **NYK win** · -201 (BangTheBook consensus)
 
-**Ticket #2 — Conservative (2 legs, Hawks cover + Okongwu points)** · est. **+233**
+Odds are morning consensus prices from BangTheBook and may have moved; combined price multiplies the legs.
 
-- **Hawks (ATL):** Spread **ATL -5.5** · -115 (DraftKings)
-- **Onyeka Okongwu (ATL):** Points **Over 14.5** · -128 (DraftKings)
+**Ticket #2 — Conservative (3 legs, three favorites win)** · est. **+97**
 
-Same caveat on odds as Ticket #1.
+- **76ers (PHI):** Moneyline **PHI win** · -621 (CBS Sports)
+- **Celtics (BOS):** Moneyline **BOS win** · -750 (BangTheBook consensus)
+- **Knicks (NYK):** Moneyline **NYK win** · -201 (BangTheBook consensus)
 
-## Slate note
+Odds are morning prices and may have moved. Maxey (questionable) and Tatum (day-to-day, rest) status should be rechecked before tip.
 
-Only one game (Hornets at Hawks, 7:00 PM ET, NBA Cup group play) had retrievable lines today. Friday is NBA Cup group night 4, and other games exist (Toronto at Detroit, Phoenix at Utah, New Orleans at Oklahoma City and others reported), but I couldn't find verified lines, props or injury reports for them, so no tickets were built there. There is no NFL game today. No aggressive tickets, because the data didn't support 4+ verified legs.
+**Ticket #3 — Aggressive (4 legs, spreads and a total)** · est. **+1244**
 
-## Analysis
+- **Spurs (SA):** Spread **SA -17.5** · -112 (BangTheBook consensus)
+- **Pelicans/Spurs:** Game total **Over 227.5** · -115 (BangTheBook consensus)
+- **Celtics (BOS):** Spread **BOS -13.5** · -107 (BangTheBook consensus)
+- **Knicks (NYK):** Spread **NYK -5.5** · -104 (BangTheBook consensus)
 
-**Tickets #1 and #2 (Conservative)**
+Odds are morning consensus prices and may have moved; combined price multiplies the legs.
 
-- **Matchup & usage:** Charlotte is missing Kon Knueppel, Dennis Schroder, Grayson Allen, Grant Williams, Kylan Boswell and Michael Ajayi, which guts its guard and wing rotation. Atlanta is also thin (CJ McCollum, Jock Landale, Mouhamed Gueye, Asa Newell, Henri Veesaar out), which pushes more usage to Okongwu, the main interior scorer. The Over 14.5 points line is priced at -128.
-- **Defensive matchups:** I couldn't retrieve opponent rank or pace data, so I'm making no claims here beyond the injury picture.
-- **Game script:** A Hawks win or cover (home, -5.5, ML -220) means Okongwu likely plays full starter minutes. The risk is a blowout that trims his minutes.
-- **Risk & correlation:** Mildly positively correlated. Hawks questionable list: Rafael Castro, RayJ Dennis, Kingston Flemings, Jalen Wilson; check status before tip. Ticket #2 pays more but needs a 6+ point win. Confidence: 5/10 for #1, 4/10 for #2.
+## Explanations & Analysis
 
-Parlays are high-variance and nothing here is guaranteed.
+### Ticket #1 — Conservative
+- **Spurs ML:** San Antonio (117.5 PPG, allows 106.3) hosts a 5-12 Pelicans team allowing 123.0 and missing Murray, Mathurin, Watford and McGowens. Spurs are missing Harper, Harris and Quaintance but have Wembanyama (28.6 PPG, 11.9 RPG).
+- **Knicks ML:** Portland is without Morant, Sharpe, Krejci and Youngblood (Avdija day-to-day). New York allows 103.5 PPG vs. Portland's 111.2 allowed-to-score pace; Knicks are 7-3 in their last 10. Anunoby (calf) is day-to-day.
+- **Risk & correlation:** Independent games, no negative correlation. Main risk is a Knicks upset (Portland +168) or an Anunoby absence. **Confidence: 7/10.**
+
+### Ticket #2 — Conservative
+- **76ers ML:** 13-3 Philadelphia vs. a 1-15 Bucks team. Jaylen Brown is out and Maxey is questionable, which shrinks the margin but not the win probability much. Milwaukee has stayed within large spreads in four of five.
+- **Celtics ML:** Boston (11-4, allows 103.4) vs. Sacramento (1-14, allows 120.7, 0-9 at home). Boston lost two straight and Tatum is listed day-to-day for rest.
+- **Knicks ML:** see Ticket #1.
+- **Risk & correlation:** Three separate games; price is short, so one upset kills it. Recheck Maxey/Tatum. **Confidence: 6/10.**
+
+### Ticket #3 — Aggressive
+- **Spurs -17.5 and Over 227.5:** Positively correlated. A Spurs blowout needs San Antonio scoring; the Pelicans allow 123 PPG and the total is the highest on the board. Risk: garbage time with Spurs starters sitting, which hurts the cover but less the over.
+- **Celtics -13.5:** Sacramento is 1-14 with Simmons, Raynaud and Achiuwa out; Boston needs a double-digit win and Tatum's rest status is the swing factor.
+- **Knicks -5.5:** Portland's offense (117.5 PPG) is the best path to a close game; Knicks defense is the edge.
+- **Risk & correlation:** Four spread-style legs on large numbers; high variance. Only the Spurs legs correlate (positively). **Confidence: 3/10.**
 
 Sources:
-- [SI: Hornets vs. Hawks prediction, odds and props (NBA Cup)](https://www.si.com/betting/hornets-vs-hawks-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026)
-- [FantasyData: NBA injuries](https://fantasydata.com/nba/injuries)
-- [ESPN: 2026 NBA Cup schedule](https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates)
+- [CBS Sports — 76ers vs. Bucks picks, Nov. 21](https://www.cbssports.com/betting/news/76ers-bucks-prediction-odds-time-2026-nba-picks-for-saturday-november-21/)
+- [BangTheBook — Trail Blazers vs. Knicks](https://bangthebook.com/portland-trail-blazers-vs-new-york-knicks-prediction-2026-11-21/)
+- [BangTheBook — Celtics vs. Kings](https://bangthebook.com/boston-celtics-vs-sacramento-kings-prediction-2026-11-21/)
+- [BangTheBook — Pelicans vs. Spurs](https://bangthebook.com/new-orleans-pelicans-vs-san-antonio-spurs-prediction-2026-11-21/)
+- [Dimers — NBA best bets 11/21/2026](https://www.dimers.com/nba/news/nba-best-bets-11-21-2026-ac)
+- [CBS Sports NFL Week 11 schedule](https://www.cbssports.com/nfl/schedule/2026/regular/11/)
+
+Parlays are high-variance and nothing here is guaranteed.
