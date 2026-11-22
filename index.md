@@ -75,6 +75,40 @@ Notes and gaps: Full prop menus for NFL yardage and NBA points were not availabl
 
 Parlays are high-variance and nothing here is guaranteed.
 
+## Evening Update (5:35 PM ET)
+
+Tonight: Vikings at 49ers (SNF, 8:20 PM ET) plus NBA tip-offs at 7:00 (Magic-Wizards, Mavericks-Jazz, Nuggets-Bulls), 8:00 (Pacers-Knicks) and 8:30 (Celtics-Warriors). Sportsbook pages were mostly blocked and no new full prop menus were reachable, so these tickets use only prices published for tonight's games. Props are priced from the Dimers/SI pages listed below.
+
+**Ticket #5 — Aggressive (4 legs, tonight's steals plus Jefferson and Reed)** · est. **+3737**
+
+- **Anthony Davis (WAS):** Steals **Over 1.5** · +194 (FanDuel)
+- **Brandin Podziemski (GSW):** Steals **Over 1.5** · +188 (FanDuel)
+- **Justin Jefferson (MIN):** Anytime TD **Yes** · +120 (DraftKings/FanDuel)
+- **Paul Reed (DET):** Rebounds **Over 7.5** · +106 (FanDuel)
+
+Anthony Davis's team is inferred from the Magic-Wizards listing and may be wrong. Legs repeat Jefferson and Reed from the morning tickets in a new combination.
+
+**Ticket #6 — Aggressive (6 legs, longshot tonight stack)** · est. **+25200**
+
+- **Anthony Davis (WAS):** Steals **Over 1.5** · +194 (FanDuel)
+- **Brandin Podziemski (GSW):** Steals **Over 1.5** · +188 (FanDuel)
+- **Justin Jefferson (MIN):** Anytime TD **Yes** · +120 (DraftKings/FanDuel)
+- **Paul Reed (DET):** Rebounds **Over 7.5** · +106 (FanDuel)
+- **Nickeil Alexander-Walker (ATL):** 3-Pointers Made **Over 3.5** · +146 (FanDuel)
+- **Jalen Johnson (ATL):** Steals **Over 1.5** · +168 (FanDuel)
+
+Same-game legs (Reed, Alexander-Walker, Johnson in Pistons-Hawks) are correlated, so the real price is likely shorter than the multiplied figure. Team assignments are inferred from the matchup listing.
+
+### Evening analysis
+
+- **Davis over 1.5 steals (+194):** Dimers' model gives 44.8% for a 10.8% edge, the biggest edge on tonight's board. Steals are volatile, so this is a price play rather than a lock.
+- **Podziemski over 1.5 steals (+188):** Model 43.1%, 8.4% edge. Golden State's guards get steals in transition if Boston-Golden State turns into a faster game.
+- **Jefferson anytime TD (+120):** Sunday night at San Francisco (49ers -2.5/-3.5, total 46.5 per morning sources) is a close game, so Jefferson should stay in the game script all night. SI cites his target share and a 49ers pass defense that gives up passing scores. Rotowire listed no inactives yet; check the 8:20 PM ET inactive list, since a pre-game scratch kills the leg.
+- **Reed over 7.5 reb / Alexander-Walker over 3.5 threes / Johnson over 1.5 steals:** same Dimers model edges as this morning (7%, 5.3%, 6.6%). No injury news was found. A blowout cuts minutes and hurts all three.
+- **Risk and correlation:** The NBA legs sit in different games, so they are mostly independent; the Jefferson leg is independent of the NBA legs. Confidence: Ticket #5 **3/10**, Ticket #6 **2/10**. Fun-size stakes only.
+- **Morning ticket status:** No confirmed injury changes to any morning leg were found. Morning lines may have moved, and Hutchinson, Mayfield and Bowers were already flagged this morning.
+
+
 Sources:
 
 - [Covers: NFL Week 11 odds](https://www.covers.com/nfl/week-11-odds-opening-lines-2026)
@@ -87,3 +121,4 @@ Sources:
 - [Bleacher Nation: Knicks vs. Pacers](https://www.bleachernation.com/picks/2026/11/22/knicks-vs-pacers-predictions-best-bets-and-odds-sunday-november-22-2026/)
 - [Athlon Sports: Week 11 anytime TD props](https://athlonsports.com/betting/best-touchdown-prop-bets-parlay-2026-nfl-week11)
 - [Sharp Football Analysis: Week 11 TD scorer bets](https://www.sharpfootballanalysis.com/betting/nfl-first-touchdown-scorer-bet-picks-prediction/)
+- [Rotowire: Vikings-49ers game page](https://www.rotowire.com/betting/nfl/game.php?id=2978510)
