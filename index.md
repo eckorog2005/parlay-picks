@@ -2,123 +2,64 @@
 title: Parlay Picks
 ---
 
-# Today's Parlay Picks — 2026-11-22
+# Today's Parlay Picks — 2026-11-23
 
 > ⚠️ **Just for fun.** AI-generated picks, not betting advice, no guarantees. Gamble responsibly — 1-800-GAMBLER.
 
-Sunday NFL Week 11 plus a seven-game NBA slate. Morning run: prop lines are only partly posted, so legs use only prices I could find. Evening update may add more.
+Monday: NFL Week 12 Monday Night Football (Commanders at Bengals, 8:15 PM ET) plus an eight-game NBA slate. Morning run: almost no player prop lines were retrievable (most sportsbook sites were unreachable), so these tickets lean on game lines plus the one prop price I could find. The evening update should add prop-heavy tickets once lines are posted.
 
-**Ticket #1 — Conservative (3 legs, Denver + Jacksonville + Swift)** · est. **+269**
+**Ticket #1 — Conservative (2 legs, Bengals + Spurs spreads)** · est. **+264**
 
-- **Broncos (DEN):** Moneyline **DEN win** · -575 (ESPN)
-- **Jaguars (JAX):** Spread **JAX -5.5** · -110 (price assumed)
-- **D'Andre Swift (CHI):** Anytime TD **Yes** · -155 (DraftKings)
+- **Bengals (CIN):** Spread **CIN -6** · -110 (price assumed)
+- **Spurs (SA):** Spread **SA -11.5** · -110 (FanDuel line, price assumed)
 
-Spread price is not posted in the sources I found; standard -110 is assumed. Line has moved between -5.5 and -6.
+Spread prices were not shown in the sources; standard -110 is assumed. Lines move before kickoff.
 
-**Ticket #2 — Aggressive (4 legs, NFL anytime TD ladder)** · est. **+4120**
+**Ticket #2 — Aggressive (4 legs, Bengals shootout SGP + Lakers)** · est. **+1217**
 
-- **Justin Jefferson (MIN):** Anytime TD **Yes** · +120 (DraftKings/FanDuel)
-- **Jaylen Waddle (DEN):** Anytime TD **Yes** · +175 (DraftKings/FanDuel)
-- **Jaylen Warren (PIT):** Anytime TD **Yes** · +125 (DraftKings)
-- **Josh Downs (KC):** Anytime TD **Yes** · +210 (Sharp Football Analysis; another book lists +275)
+- **Ja'Marr Chase (CIN):** Receiving yards **Over 92.5** · -112 (CBS Sports preview)
+- **Bengals (CIN):** Spread **CIN -6** · -110 (price assumed)
+- **Commanders @ Bengals:** Total **Over 54.5** · -110 (price assumed)
+- **Lakers (LAL):** Spread **LAL -14.5** · -110 (FanDuel line, price assumed)
 
-**Ticket #3 — Aggressive (4 legs, Pistons-Hawks props plus Murray)** · est. **+2830**
+Only the Chase prop had a posted price. Other prices are assumed -110.
 
-- **Paul Reed (DET):** Rebounds **Over 7.5** · +106 (FanDuel)
-- **Nickeil Alexander-Walker (ATL):** 3-Pointers Made **Over 3.5** · +146 (FanDuel)
-- **Jalen Johnson (ATL):** Steals **Over 1.5** · +168 (FanDuel)
-- **Jamal Murray (DEN):** Assists **Over 6.5** · +116 (FanDuel)
+**Ticket #3 — Aggressive (4 legs, NBA spreads and a Thunder-Pacers under)** · est. **+1228**
 
-Same-game legs are correlated, so the real price is likely shorter than the multiplied figure. Team assignments for Alexander-Walker and Johnson are inferred from the matchup listing.
+- **Pacers (IND):** Spread **IND +5.0** · -110 (TheSpread)
+- **Thunder @ Pacers:** Total **Under 222.5** · -110 (TheSpread)
+- **Timberwolves (MIN):** Spread **MIN -12.5** · -110 (FanDuel line, price assumed)
+- **Raptors (TOR):** Spread **TOR -11.5** · -110 (FanDuel line, price assumed)
 
-**Ticket #4 — Aggressive (6 legs, longshot mixed props)** · est. **+7105**
+Thunder-Pacers legs depend on Shai Gilgeous-Alexander's status (injury report not yet filed). Re-check before betting.
 
-- **Bhayshul Tuten (JAX):** Anytime TD **Yes** · -105 (DraftKings)
-- **D'Andre Swift (CHI):** Anytime TD **Yes** · -155 (DraftKings)
-- **Omarion Hampton (LAC):** Anytime TD **Yes** · +105 (Athlon)
-- **Jamal Murray (DEN):** Assists **Over 6.5** · +116 (FanDuel)
-- **Paul Reed (DET):** Rebounds **Over 7.5** · +106 (FanDuel)
-- **Nickeil Alexander-Walker (ATL):** 3-Pointers Made **Over 3.5** · +146 (FanDuel)
+**Ticket #4 — Aggressive (6 legs, longshot favorites ladder)** · est. **+4710**
+
+- **Ja'Marr Chase (CIN):** Receiving yards **Over 92.5** · -112 (CBS Sports preview)
+- **Bengals (CIN):** Spread **CIN -6** · -110 (price assumed)
+- **Lakers (LAL):** Spread **LAL -14.5** · -110 (FanDuel line, price assumed)
+- **Spurs (SA):** Spread **SA -11.5** · -110 (FanDuel line, price assumed)
+- **Timberwolves (MIN):** Spread **MIN -12.5** · -110 (FanDuel line, price assumed)
+- **76ers (PHI):** Spread **PHI -3.5** · -110 (FanDuel line, price assumed)
+
+Combined odds are my own estimate from the listed prices; actual book payouts will differ.
 
 ## Analysis
 
-### Ticket #1 — Conservative
+**Data limits:** I could not retrieve player prop boards, usage stats, or injury reports for most games, so I am not inventing them. Only two tickets include any prop, and none are prop-heavy; this misses the "two props tickets" target for this morning run.
 
-- **Broncos ML:** Denver is a 10-point home favorite (total 40.5) against a Raiders team with a rookie QB. ESPN FPI gives Denver about 87%. The Raiders' secondary ranks 28th in dropback EPA. Script: Denver controls the game.
-- **Jaguars -5.5:** Jacksonville is a road favorite at the Giants (total about 44.5-45.5). The Giants allow about 121.6 rush yards per game, and Jacksonville leans on the run when passing is hard. Risk: the Giants' pass defense ranks third in yards allowed.
-- **Swift anytime TD:** Chicago is a double-digit favorite over the Saints (total 48.5). New Orleans ranks 27th in rushing yards allowed, and Swift has 10 rushing TDs and the goal-line role. Risk: Monangai's return could cut some carries.
-- **Correlation/risk:** Mostly independent games, so no negative correlation. A blowout helps both Denver and Chicago. Confidence **6/10**. Risk: a -575 leg and a juiced TD prop add up to modest value.
+**Ticket #1 (Conservative), confidence 6/10.** Cincinnati is a 6-point home favorite with a 54.5 total; Rotowire's implied score is roughly 29.8-23.8 CIN. San Antonio is a double-digit favorite at Sacramento. Risk: big spreads can be backdoor-covered in garbage time, and Wembanyama's status was not confirmed.
 
-### Ticket #2 — NFL anytime TD ladder
+**Ticket #2, confidence 4/10.** Correlated game script: a Cincinnati win with points helps both the Chase yardage over and the over. Negative correlation: if Cincinnati leads big and runs the ball, Chase's yards can stall. Lakers -14.5 is a separate, large-spread leg with injury/rest risk.
 
-- **Jefferson (+120):** 9+ targets in each of the last three weeks, 13 in Week 10, four TDs. The 49ers rank 12th-most in passing TDs allowed. Sunday night, Vikings at 49ers (49ers -2.5/-3.5, total 46.5).
-- **Waddle (+175):** Leads Denver in targets (52), catches (30), and yards (337). Las Vegas has allowed 13 TDs to WRs, second-most. Corr: a Denver win with passing scores also helps Ticket #1.
-- **Warren (+125):** Pittsburgh at Philadelphia (Steelers -3.5, total 37.5). Philadelphia's run defense ranks 25th. Only three TDs this season, so this is the weakest leg.
-- **Downs (+210):** Chiefs host the Cardinals as 14.5-16.5 point favorites (total about 41). A big Kansas City game raises TD volume. Price differs by book; Arizona starts Carson Beck.
-- **Risk:** Four TD props at +120 or longer. All are independent games. Confidence **3/10**.
+**Ticket #3, confidence 3/10.** Both Oklahoma City and Indiana are on the second night of a back-to-back; Indiana is on a four-game losing streak and last in offensive rebounding rate, but Haliburton is out. The Pacers +5 and under pair is positively correlated (a grind keeps it close and low). The big risk is Gilgeous-Alexander's pending status moving the line. Minnesota -12.5 and Toronto -11.5 are pure favorite plays.
 
-### Ticket #3 — Pistons-Hawks props plus Murray
-
-- **Reed over 7.5 reb:** Dimers' model gives 55.6% at +106, a 7% edge. Pistons are a 1.5-2 point road favorite (total about 225-227).
-- **Alexander-Walker over 3.5 threes:** Model probability 46% at +146, a 5.3% edge.
-- **Johnson over 1.5 steals:** Model 44% at +168, a 6.6% edge. Steals are volatile.
-- **Murray over 6.5 assists:** Nuggets vs. Bulls, model 52.7% at +116, a 6.4% edge.
-- **Risk:** A fast, high-scoring Pistons-Hawks game helps the threes and steals legs but a blowout cuts minutes. No injury info was in the sources; check before tip. Confidence **4/10**.
-
-### Ticket #4 — Longshot
-
-- Combines the best-priced edges from the other tickets: Tuten (Giants allow 121.6 rush yards/game, scored in all but three games), Swift (see #1), Hampton (105 yards last week against a Jets defense allowing 13 rushing TDs), plus Murray, Reed, and Alexander-Walker.
-- **Risk:** Six legs means all need to hit; implied hit rate is roughly 1.4%. Confidence **2/10**. Fun-size stake only.
-
-Notes and gaps: Full prop menus for NFL yardage and NBA points were not available from accessible sources this morning. NBA spreads: Knicks -9.5 (total 216.5) vs. Pacers, Heat about -2.5/-3.5 vs. Thunder (231.5), Mavericks at Jazz (Utah +1.5 dog per one source, 225.5), Pistons -1.5 at Hawks. Packers, Rams, and Falcons are on bye. Baker Mayfield is expected out for Tampa Bay and Aidan Hutchinson appears to be out for Detroit, so no Lions-Buccaneers legs were used. Brock Bowers is dealing with an ankle injury. Several sources list lines as of Nov. 21-22 and they will move.
-
-Parlays are high-variance and nothing here is guaranteed.
-
-## Evening Update (5:35 PM ET)
-
-Tonight: Vikings at 49ers (SNF, 8:20 PM ET) plus NBA tip-offs at 7:00 (Magic-Wizards, Mavericks-Jazz, Nuggets-Bulls), 8:00 (Pacers-Knicks) and 8:30 (Celtics-Warriors). Sportsbook pages were mostly blocked and no new full prop menus were reachable, so these tickets use only prices published for tonight's games. Props are priced from the Dimers/SI pages listed below.
-
-**Ticket #5 — Aggressive (4 legs, tonight's steals plus Jefferson and Reed)** · est. **+3737**
-
-- **Anthony Davis (WAS):** Steals **Over 1.5** · +194 (FanDuel)
-- **Brandin Podziemski (GSW):** Steals **Over 1.5** · +188 (FanDuel)
-- **Justin Jefferson (MIN):** Anytime TD **Yes** · +120 (DraftKings/FanDuel)
-- **Paul Reed (DET):** Rebounds **Over 7.5** · +106 (FanDuel)
-
-Anthony Davis's team is inferred from the Magic-Wizards listing and may be wrong. Legs repeat Jefferson and Reed from the morning tickets in a new combination.
-
-**Ticket #6 — Aggressive (6 legs, longshot tonight stack)** · est. **+25200**
-
-- **Anthony Davis (WAS):** Steals **Over 1.5** · +194 (FanDuel)
-- **Brandin Podziemski (GSW):** Steals **Over 1.5** · +188 (FanDuel)
-- **Justin Jefferson (MIN):** Anytime TD **Yes** · +120 (DraftKings/FanDuel)
-- **Paul Reed (DET):** Rebounds **Over 7.5** · +106 (FanDuel)
-- **Nickeil Alexander-Walker (ATL):** 3-Pointers Made **Over 3.5** · +146 (FanDuel)
-- **Jalen Johnson (ATL):** Steals **Over 1.5** · +168 (FanDuel)
-
-Same-game legs (Reed, Alexander-Walker, Johnson in Pistons-Hawks) are correlated, so the real price is likely shorter than the multiplied figure. Team assignments are inferred from the matchup listing.
-
-### Evening analysis
-
-- **Davis over 1.5 steals (+194):** Dimers' model gives 44.8% for a 10.8% edge, the biggest edge on tonight's board. Steals are volatile, so this is a price play rather than a lock.
-- **Podziemski over 1.5 steals (+188):** Model 43.1%, 8.4% edge. Golden State's guards get steals in transition if Boston-Golden State turns into a faster game.
-- **Jefferson anytime TD (+120):** Sunday night at San Francisco (49ers -2.5/-3.5, total 46.5 per morning sources) is a close game, so Jefferson should stay in the game script all night. SI cites his target share and a 49ers pass defense that gives up passing scores. Rotowire listed no inactives yet; check the 8:20 PM ET inactive list, since a pre-game scratch kills the leg.
-- **Reed over 7.5 reb / Alexander-Walker over 3.5 threes / Johnson over 1.5 steals:** same Dimers model edges as this morning (7%, 5.3%, 6.6%). No injury news was found. A blowout cuts minutes and hurts all three.
-- **Risk and correlation:** The NBA legs sit in different games, so they are mostly independent; the Jefferson leg is independent of the NBA legs. Confidence: Ticket #5 **3/10**, Ticket #6 **2/10**. Fun-size stakes only.
-- **Morning ticket status:** No confirmed injury changes to any morning leg were found. Morning lines may have moved, and Hutchinson, Mayfield and Bowers were already flagged this morning.
-
+**Ticket #4, confidence 2/10.** Six favorites in a row; every leg needs to cover, and heavy favorites often rest starters late. Pure longshot.
 
 Sources:
+- [TheSpread: Thunder vs Pacers, Nov 23](https://www.thespread.com/nba-articles/thunder-vs-pacers-prediction-november-23-2026/)
+- [FanDuel Research: NBA odds 11-23-2026](https://www.fanduel.com/research/nba-predictions-odds-11-23-2026) (via search summary)
+- [CBS Sports: Commanders vs. Bengals MNF preview](https://cbssports.com/betting/news/commanders-vs-bengals-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets) (via search summary)
+- [Rotowire: CIN-WAS game page](https://www.rotowire.com/betting/nfl/game.php?id=2978803) (via search summary)
 
-- [Covers: NFL Week 11 odds](https://www.covers.com/nfl/week-11-odds-opening-lines-2026)
-- [ESPN: Week 11 betting odds](https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals)
-- [CBS Sports: Week 11 expert picks](https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/)
-- [CBS Sports: Week 11 anytime TD bets](https://www.cbssports.com/betting/news/best-nfl-anytime-touchdown-scorer-bets-on-sundays-week-11-slate-include-jaylen-warren-bhayshul-tuten/)
-- [SI Betting: Week 11 anytime TD picks](https://www.si.com/betting/best-nfl-week-11-anytime-td-scorer-picks-target-justin-jefferson-jaylen-waddle-on-sunday-2026)
-- [Dimers: NBA player props 11/22/2026](https://www.dimers.com/nba/news/nba-player-props-11-22-2026-ac)
-- [FanDuel Research: NBA odds 11/22/2026](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-- [Bleacher Nation: Knicks vs. Pacers](https://www.bleachernation.com/picks/2026/11/22/knicks-vs-pacers-predictions-best-bets-and-odds-sunday-november-22-2026/)
-- [Athlon Sports: Week 11 anytime TD props](https://athlonsports.com/betting/best-touchdown-prop-bets-parlay-2026-nfl-week11)
-- [Sharp Football Analysis: Week 11 TD scorer bets](https://www.sharpfootballanalysis.com/betting/nfl-first-touchdown-scorer-bet-picks-prediction/)
-- [Rotowire: Vikings-49ers game page](https://www.rotowire.com/betting/nfl/game.php?id=2978510)
+Parlays are high-variance and nothing here is guaranteed.
