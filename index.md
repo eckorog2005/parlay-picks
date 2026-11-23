@@ -56,6 +56,16 @@ Combined odds are my own estimate from the listed prices; actual book payouts wi
 
 **Ticket #4, confidence 2/10.** Six favorites in a row; every leg needs to cover, and heavy favorites often rest starters late. Pure longshot.
 
+## Evening Update (5:40 PM ET)
+
+No new tickets this evening. Search results returned no 2026 player prop boards for Commanders at Bengals or tonight's NBA games (results were from earlier seasons), and fanduel.com and cbssports.com could not be reached from this session, so I did not invent lines. Tickets #1-#4 above stand as posted.
+
+**Injury/status changes**
+
+- Shai Gilgeous-Alexander (OKC): still unconfirmed as of the last retrievable report (neck strain and back contusion). Ticket #3's Thunder-Pacers legs depend on it, so check the official report before tip (7:30 PM ET).
+- Tyrese Haliburton (IND): confirmed out, already priced into the Pacers +5 line.
+- Burrow and Chase: no reliable 2026 status found; the one hit about Burrow on injured reserve looked like another season, so verify before placing any Bengals leg.
+
 Sources:
 - [TheSpread: Thunder vs Pacers, Nov 23](https://www.thespread.com/nba-articles/thunder-vs-pacers-prediction-november-23-2026/)
 - [FanDuel Research: NBA odds 11-23-2026](https://www.fanduel.com/research/nba-predictions-odds-11-23-2026) (via search summary)
