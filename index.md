@@ -73,10 +73,67 @@ Combines the best-justified legs from Tickets #2 and #3 for a long payout. All s
 - I couldn't retrieve DraftKings or BettingPros pages, so props come from prediction-market listings (Kalshi, Novig). Verify the numbers at your book.
 - I didn't re-check injuries beyond what the sources listed (Lions missing Hutchinson and Campbell).
 
+## Evening Update (5:45 PM ET)
+
+Only KC @ BUF (8:20 PM ET, Bills about -2.5) is still ahead tonight, so all new tickets use that game. No NBA slate found. Forecast calls for rain and wind gusts up to 24 mph, so these tickets lean on the run game and touchdowns instead of passing yards.
+
+**Injury/status changes**
+- Chiefs RB Kenneth Walker III is out, which moves Emmett Johnson into the lead role. Chiefs RT Jaylon Moore is also out. Trey Smith cleared protocol.
+- Bills have no one ruled out. Dalton Kincaid, Benford and three others are questionable.
+- Morning Tickets #3 and #4 (Mahomes pass yards Over 224.5, Allen Under 218.5) are now less safe: Moore's absence plus wind and rain hurts the Mahomes leg. The Allen Under looks better in this weather.
+
+**Ticket #5 — Conservative (2 legs, Cook run-game script)** · est. **+260**
+
+- **James Cook (BUF):** Rushing yards **Over 85.5** · -115 (BetMGM)
+- **James Cook (BUF):** Anytime TD **Yes** · -105 (BetMGM)
+
+**Ticket #6 — Aggressive (4 legs, wet-weather run and TD props)** · est. **+2000**
+
+- **James Cook (BUF):** Rushing yards **Over 85.5** · -115 (BetMGM)
+- **James Cook (BUF):** Anytime TD **Yes** · -105 (BetMGM)
+- **Patrick Mahomes (KC):** Rushing yards **Over 13.5** · -125 (BetMGM)
+- **Travis Kelce (KC):** Anytime TD **Yes** · +233 (Kalshi)
+
+Kelce's price is a 30% Kalshi probability converted to American odds. Leg 2 and leg 1 are positively correlated, so true odds are likely shorter than the simple multiplication.
+
+**Ticket #7 — Aggressive (6 legs, KC @ BUF longshot)** · est. **+13000**
+
+- **James Cook (BUF):** Rushing yards **Over 85.5** · -115 (BetMGM)
+- **James Cook (BUF):** Anytime TD **Yes** · -105 (BetMGM)
+- **Patrick Mahomes (KC):** Rushing yards **Over 13.5** · -125 (BetMGM)
+- **Travis Kelce (KC):** Anytime TD **Yes** · +233 (Kalshi)
+- **Rashee Rice (KC):** Anytime TD **Yes** · +230 (Yahoo Sports listing, book unknown)
+- **Rashee Rice (KC):** Receptions **Over 4.5** · -120 (SI listing, book unknown)
+
+Kelce's price is a 30% Kalshi probability converted to American odds. Rice's two legs are correlated, so true odds are likely well shorter than +13000.
+
+### Evening analysis
+
+**Ticket #5 — Conservative**
+- **Cook 86+ yards:** Averaging 106.5 rushing yards per game with no game under 80 in that stretch. Both teams are expected to run in the rain and wind.
+- **Cook ATD:** Has scored in nine straight games. Both legs rise together if Buffalo controls the ground game.
+- **Risk:** Same-player stacking means one bad game sinks both, and a Buffalo deficit cuts carries. Confidence **5/10**.
+
+**Ticket #6 — Run and TD props**
+- **Mahomes 14+ rush yards:** Wind and a thinner right side of the line (Moore out) push Mahomes to scramble. This pairs with a run-leaning script.
+- **Kelce ATD:** Walker's absence and a wet ball make short-area targets and red-zone looks to Kelce more likely.
+- **Risk:** Kelce is touchdown-dependent. Confidence **3/10**.
+
+**Ticket #7 — Longshot**
+- Adds Rice, who is Kansas City's top target with a 5+ catch floor in a short-passing, wind-limited script. The ATD at +230 is a pure upside leg.
+- **Risk:** Six legs, two correlated pairs, and Kelce and Rice compete for the same red-zone targets. Small-stake lottery ticket. Confidence **1/10**.
+
+**Evening caveats:** I couldn't find a posted game total, Emmett Johnson's prop lines, or Allen's rushing line. Lines come from pre-game articles, so confirm at your book before kickoff.
+
 Sources:
 - [Covers — Bears vs Lions Thanksgiving](https://www.covers.com/nfl/thanksgiving-best-bets-odds-props-bears-vs-lions-week-12-2026)
 - [Sports Betting Dime — Thanksgiving NFL player prop picks](https://www.sportsbettingdime.com/news/nfl/nfl-player-prop-picks-best-bet-every-team-thanksgiving/)
 - [Time — NFL Thanksgiving odds](https://time.com/partner-content/prediction-markets/nfl-thanksgiving-day-odds/)
 - [Oddschecker — Thanksgiving NFL](https://www.oddschecker.com/us/insight/football/nfl/20261126-best-betting-sites-for-thanksgiving-nfl-in-2026)
+- [RotoWire — Chiefs vs Bills props](https://www.rotowire.com/football/article/best-chiefs-vs-bills-nfl-player-props-thanksgiving-day-week-12-148411)
+- [Covers — Chiefs vs Bills props](https://www.covers.com/nfl/chiefs-vs-bills-props-best-bets-week-12-2026)
+- [Yahoo Sports — Bills Thanksgiving injury report](https://sports.yahoo.com/nfl/articles/bills-thanksgiving-injury-report-5-190026800.html)
+- [Yahoo Sports — Chiefs Week 12 injury report](https://sports.yahoo.com/nfl/articles/chiefs-week-12-injury-report-214831701.html)
+- [SI — Chiefs vs Bills prop bets](https://www.si.com/betting/chiefs-vs-bills-best-nfl-prop-bets-for-thanksgiving-night-in-week-12-fade-josh-allen-2026)
 
 Parlays are high-variance and nothing here is guaranteed.
